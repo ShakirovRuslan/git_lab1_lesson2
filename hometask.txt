@@ -1,0 +1,13 @@
+В получившейся ветке master и удалённой ветке demo различаются файлы README, файлы human.txt идентичны.
+
+В удалённом репозитории 10 коммитов. Их комментарии:
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+README added
+boots
+heat added
+init
